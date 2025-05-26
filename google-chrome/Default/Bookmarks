@@ -1,0 +1,374 @@
+{
+   "checksum": "0b354c20d13bdb48d942d437073c90e0",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "children": [ {
+               "date_added": "13384248209580000",
+               "date_last_used": "0",
+               "guid": "3e828c6e-1486-4140-bee7-3d38612491ae",
+               "id": "27",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Java Core tiếng việt | Udemy",
+               "type": "url",
+               "url": "https://www.udemy.com/course/java-core-tieng-viet/?couponCode=LETSLEARNNOW"
+            }, {
+               "date_added": "13385022294206924",
+               "date_last_used": "13390712208921733",
+               "guid": "15959b13-3c47-46e3-8c0f-83a1b4dd43f0",
+               "id": "28",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Khóa học trực tuyến - Học bất cứ điều gì, theo lịch trình của bạn | Udemy",
+               "type": "url",
+               "url": "https://www.udemy.com/cart/success/2083362443/"
+            }, {
+               "date_added": "13385316800570424",
+               "date_last_used": "0",
+               "guid": "8a54c121-910a-4dde-9add-6a97dfb4d528",
+               "id": "29",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Lộ trình học Java từ A~Z - Tây Java",
+               "type": "url",
+               "url": "https://tayjava.vn/lo-trinh-hoc-java-tu-a-z"
+            }, {
+               "date_added": "13385362190092242",
+               "date_last_used": "0",
+               "guid": "a4d3bb2f-3a18-4aad-aea8-e26c24e0d77d",
+               "id": "30",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Arch Linux với Hyprland: Hướng dẫn cho người mới bắt đầu | Tiesen",
+               "type": "url",
+               "url": "https://tiesen.id.vn/blogs/arch-linux-hyprland-setup?fbclid=IwY2xjawIwtxZleHRuA2FlbQIxMAABHfoneE2-HWbEsKPI4_KOPQzTVo15DY4omVeuFV8cFBw2uwHAcVw-fAFaCg_aem_fbLSFLePD0HgjrMcZQIEyQ"
+            }, {
+               "date_added": "13385523002046148",
+               "date_last_used": "0",
+               "guid": "b156e2af-455a-45f5-b272-c62728ad2470",
+               "id": "31",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "ArchLinux Installation Guide Using My Dotfiles | Ahmad",
+               "type": "url",
+               "url": "https://www.itsahmad.me/posts/archlinux-installation-guide/"
+            }, {
+               "date_added": "13391497323937099",
+               "date_last_used": "0",
+               "guid": "5a59c6d9-773d-42c7-ae16-a225eefe08d8",
+               "id": "32",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "API Instagram qua phương thức Đăng nhập bằng Facebook - Nền tảng Instagram",
+               "type": "url",
+               "url": "https://developers.facebook.com/docs/instagram-platform/instagram-api-with-facebook-login"
+            }, {
+               "date_added": "13391497371017967",
+               "date_last_used": "13392299800745952",
+               "guid": "53c09a20-e8a0-4a72-a691-6102ee49bab4",
+               "id": "33",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "web.dev",
+               "type": "url",
+               "url": "https://web.dev/?hl=vi"
+            } ],
+            "date_added": "13384321097633239",
+            "date_last_used": "0",
+            "date_modified": "13391497371017967",
+            "guid": "9d0000ba-2bb5-40a9-9031-8570c36ac18c",
+            "id": "26",
+            "name": "note",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13391886791208801",
+               "date_last_used": "13392223653982538",
+               "guid": "8f8d0f2b-d911-4cb5-932e-83f0f485aacf",
+               "id": "35",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "codesandbox.io/templates/vanilla",
+               "type": "url",
+               "url": "https://codesandbox.io/templates/vanilla"
+            } ],
+            "date_added": "13391886814210286",
+            "date_last_used": "0",
+            "date_modified": "13391886814210286",
+            "guid": "75d88948-7819-45e4-b4ec-ccc8387762d3",
+            "id": "34",
+            "name": "New folder",
+            "type": "folder"
+         } ],
+         "date_added": "13392007942626727",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "date_added": "13377357769035839",
+            "date_last_used": "13383367936491614",
+            "guid": "7d8d16bd-2fef-4682-b80e-90ed50fe2fc1",
+            "id": "5",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "book.pdf",
+            "type": "url",
+            "url": "https://cses.fi/book/book.pdf"
+         }, {
+            "date_added": "13377712188661003",
+            "date_last_used": "13377940472319558",
+            "guid": "f7c9c8e8-a171-49ba-8fc3-d092f1f3abbc",
+            "id": "6",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Recursive lambda expressions in C++ - GeeksforGeeks",
+            "type": "url",
+            "url": "https://www.geeksforgeeks.org/recursive-lambda-expressions-in-cpp/"
+         }, {
+            "date_added": "13377797254206011",
+            "date_last_used": "13379362599164866",
+            "guid": "58fbf734-c574-4140-96a4-b0bcd619e42d",
+            "id": "7",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "GitHub - QuanNM-PTIT/Data_Structures_and_Algorithms_PTIT: Mã nguồn đầy đủ DSA trên code.ptit.edu.vn",
+            "type": "url",
+            "url": "https://github.com/QuanNM-PTIT/Data_Structures_and_Algorithms_PTIT"
+         }, {
+            "date_added": "13377931831045970",
+            "date_last_used": "13377940477904500",
+            "guid": "7ce3ccd7-671d-4d7e-b76e-06b09447763e",
+            "id": "8",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Thuật toán thư viện | Thuật toán STL của C++ Magicians - GeeksforGeeks",
+            "type": "url",
+            "url": "https://www.geeksforgeeks.org/c-magicians-stl-algorithms/"
+         }, {
+            "date_added": "13379399967830747",
+            "date_last_used": "13380135838214562",
+            "guid": "ac6a95ed-1b34-49fd-b2fe-087ace3929c2",
+            "id": "9",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "The best tools for web development | Web Code Tools",
+            "type": "url",
+            "url": "https://webcode.tools/"
+         }, {
+            "date_added": "13380709824377142",
+            "date_last_used": "0",
+            "guid": "606d7c0a-4b6d-4933-9bed-2e1994ad9437",
+            "id": "10",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Complete list of HTML entities - FreeFormatter.com",
+            "type": "url",
+            "url": "https://www.freeformatter.com/html-entities.html"
+         }, {
+            "date_added": "13380710249764277",
+            "date_last_used": "0",
+            "guid": "bd865642-6af1-4050-a70e-8f5e1228dc95",
+            "id": "11",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Code Beautify and Code Formatter For Developers - to Beautify, Validate, Minify, JSON, XML, JavaScript, CSS, HTML, Excel and more",
+            "type": "url",
+            "url": "https://codebeautify.org/"
+         }, {
+            "date_added": "13380710314062288",
+            "date_last_used": "0",
+            "guid": "6accc8ea-eda6-438d-9929-628b8f4ff421",
+            "id": "12",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "HTML Escape and HTML Unescape Online Tool",
+            "type": "url",
+            "url": "https://codebeautify.org/html-escape-unescape"
+         }, {
+            "date_added": "13380710636894378",
+            "date_last_used": "0",
+            "guid": "88fdff9a-8d3c-4a3f-8991-1178f31da73e",
+            "id": "13",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "HTML table basics - Learn web development | MDN",
+            "type": "url",
+            "url": "https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/HTML_table_basics"
+         }, {
+            "date_added": "13380975029499086",
+            "date_last_used": "13382247446666494",
+            "guid": "36d16abc-b2a9-41e3-9843-790efe10eca0",
+            "id": "14",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Trình tải xuống SoundCloud MP3 trực tuyến - Trình chuyển đổi SoundCloud sang MP3",
+            "type": "url",
+            "url": "https://cloudmp3.cc/vi/"
+         }, {
+            "date_added": "13381647508559907",
+            "date_last_used": "13382247094023663",
+            "guid": "f8a903fb-5dd4-49c3-919b-12389184a214",
+            "id": "15",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Cấu trúc dữ liệu & thuật toán - Google Tech Dev Guide",
+            "type": "url",
+            "url": "https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms/?no-filter=true&fbclid=IwY2xjawH4CtFleHRuA2FlbQIxMQABHbMhpSjdm5fpRr7nKrBHip6Rhdxoj-O65Xb6-a_BUhEkgrIg2G-qaYPlwg_aem_SYqu-pVe0Wd1ui01xbeC5w"
+         }, {
+            "date_added": "13382167525240332",
+            "date_last_used": "0",
+            "guid": "e5c0d33b-f3ab-43d7-95ce-f5b8746aaed3",
+            "id": "16",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "SPOJ.com - Problem PTIT121A",
+            "type": "url",
+            "url": "https://www.spoj.com/PTIT/problems/PTIT121A/"
+         }, {
+            "date_added": "13382208917963313",
+            "date_last_used": "0",
+            "guid": "a2bcd29a-d56f-400c-8029-48f9ab6034bc",
+            "id": "17",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Hướng dẫn của USACO",
+            "type": "url",
+            "url": "https://usaco.guide/gold/"
+         }, {
+            "date_added": "13382294749302357",
+            "date_last_used": "13382295269553544",
+            "guid": "1138036a-9e5c-485c-acc4-83823ee123cf",
+            "id": "18",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "300 Bài Code Thiếu Nhi",
+            "type": "url",
+            "url": "https://300baicode.com/"
+         }, {
+            "date_added": "13382379418219594",
+            "date_last_used": "13392046178624848",
+            "guid": "72a921d5-8950-4949-940a-e32b0cc8fd33",
+            "id": "19",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Color palette, the color scheme for artists | Adobe Color",
+            "type": "url",
+            "url": "https://color.adobe.com/explore"
+         }, {
+            "date_added": "13386222594415373",
+            "date_last_used": "13392349304156911",
+            "guid": "50f2ffb8-5793-48b2-971c-d70acd04fbd3",
+            "id": "21",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "600x1024px | free download | HD wallpaper: Evangelion, Neon Genesis Evangelion, Evangelion Unit-01 | Wallpaper Flare",
+            "type": "url",
+            "url": "https://www.wallpaperflare.com/evangelion-neon-genesis-evangelion-evangelion-unit-01-wallpaper-qavlj/download/600x1024"
+         }, {
+            "date_added": "13386957798225735",
+            "date_last_used": "0",
+            "guid": "7da4f346-66ee-448f-8437-7049e7d50eec",
+            "id": "22",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Effective Java",
+            "type": "url",
+            "url": "https://kea.nu/files/textbooks/new/Effective%20Java%20%282017%2C%20Addison-Wesley%29.pdf"
+         }, {
+            "date_added": "13389155467687401",
+            "date_last_used": "0",
+            "guid": "a9fa6c30-b487-4077-a58c-70bfe5a9ca36",
+            "id": "23",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "TryHackMe | Cyber Security Training",
+            "type": "url",
+            "url": "https://tryhackme.com/room/offensivesecurityintro?auto-join=true&path=cybersecurity101"
+         }, {
+            "date_added": "13390323038339412",
+            "date_last_used": "0",
+            "guid": "e7eebcd7-a84e-4cf7-852e-36df41cb24e5",
+            "id": "24",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Spanner: Always-on, virtually unlimited scale database | Google Cloud",
+            "type": "url",
+            "url": "https://cloud.google.com/spanner?hl=en&fbclid=IwY2xjawJ8a6hleHRuA2FlbQIxMABicmlkETFyWklObkR0d3cxSUFTMnBqAR7eGc746ou9HC8uu351iXndX_fLor1kH2ypWVEtsNR0IGTddx9w-EDyS6DG1A_aem_6h3WGBvtNKbQhYiwFZS7LQ"
+         }, {
+            "date_added": "13390323046948185",
+            "date_last_used": "0",
+            "guid": "2aa0e853-94fc-4542-ae04-f6b8c77414b4",
+            "id": "25",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Emulate Spanner locally  |  Google Cloud",
+            "type": "url",
+            "url": "https://cloud.google.com/spanner/docs/emulator?fbclid=IwY2xjawJ8a7NleHRuA2FlbQIxMABicmlkETFyWklObkR0d3cxSUFTMnBqAR6ZrP_2vgA4QwU373NI6muLI02MhmvlyDZhL7ot3QLOo6ZGVqHzcWTSKVxkoQ_aem_hjgY6f4BFijv3P3Ekxpz8Q#install-docker"
+         }, {
+            "date_added": "13392393081913012",
+            "date_last_used": "13392558362812807",
+            "guid": "f9fecbea-f23f-4a11-b812-28c42622fffc",
+            "id": "37",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Text to ASCII Art Generator (TAAG)",
+            "type": "url",
+            "url": "https://patorjk.com/software/taag/#p=display&f=ANSI%20Shadow&t=chillguy"
+         } ],
+         "date_added": "13392007942626729",
+         "date_last_used": "0",
+         "date_modified": "13392639079134211",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13392007942626730",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CmEKQQiIgQISOyAAkgE2CjQKDmNocm9tZV9zeW5jX2JtEgU1MSFibRoSCWJDNn/0NQYAEWJDNn/0NQYAKfccOH/0NQYAEgAqGGJKaFRTR2t2SlA4V3hYR0NXc0tzZEE9PUgDEuwBCB4S5wEKHDNjQm9tMmxoc2NOUGhVbFZSdTZlc1didk1YQT0SZlo6QURxdEFaelJ5cFh3dlN6cG90MlpXemlyek9tdkwya2xuNGp2Y2ZCVkFaU05MRk5NOWJJSXhnT1pacVZhNUZDQWNJb29BZzJrVDNLRFVlMXRKT3ZUQ1BQdUJXQWprZ1loOHc9PRgAIAAoADD9hJyww+qLAziMjq+o1TJAjI6vqNUyShx6TkZNSjUrMmNycHdydEVlMDRoMm9hdEhydFE9Wh8iHfVMUWVLZkJxL21PbEdLaDlHWjJMOUxQanRoeG89ZSVatbYS7AEIHxLnAQocNHpMazVQNTc2VEhrRnROMklxMEVXSHY2QUVnPRJmWjpBRHF0QVp6UnlwWHd2U3pwb3QyWld6aXJ6T212YTR1STVDc2NXalBSaHUvZkZHaWNia3BVUVJnbkJUbEk2Tld5RjBjR0RIZnpNTFdnSE9FOHE2SXZoTmlIUS94WUJCOEoxQT09GAAgACgAMMOCoLqa74sDOL6lhvXVMkC+pYb11TJKHG1WazJRS1NLNTYzUjZybjEwL3ZhdmhEN2RQND1aHyId+jVMNXcxcXJIQUZOVVZDMDhydCtacGRUY2tIVT1lnoGBDRLsAQgJEucBChxUQWNKczYycXd6bWMrbDFndStRM1lKL3I5QWs9EmZaOkFEcXRBWnpSeXBYd3ZTenBvdDJaV3ppcnpPbXZzRFVlTEw4VFpWS1dta2xHWGhtK2hSUzFlcEFJbkFjZ1RtS3RBeXJsa3crVGg1bVNOQW9wMERoYXZlUHVFbHpRSFJuNkx3PT0YACAAKAAwiOjIp7SxiwM4zdXGgM4yQM3VxoDOMkocZzFWUW5qZDF6Uks3NFVlK0ZnR0hnZE42eW8wPVofIh30K1dMd3VINnFCbjdYN2tIYUZwbWQvSnh0am5JPWWzsEC9EsMBCAMSvgEKHG5qZ0R1ODhlQ3J2WHA4NnBEN2ZIR2NxRnA4OD0SZlo6QURxdEFaeXdBWi9lVm9BY3kvL1FaTTF1T2tLdW1jUkYyRW1CeXpjZzJiMlVBcjl0NzFQWVJJVStoNjUzNGlhZU9mSnI4R04yTTJJWlBJUnBtR3J6WWNmakkrVnF5aHZnWUE9PRgAIAAoADCs3IHs+KuNAzgAQABKHHl6TkIwMWNuNTRBN2NSVTB1VCsvUGdtVHRVbz1aAGUAAAAAEu0BCBIS6AEKHGo3N0dGUlBiMCtqVnFYYXpLUkwyd0FFRmJMST0SZlo6QURxdEFaelJ5cFh3dlN6cG90MlpXemlyek9tdmc2UmlhL2RFa2c2YmtDZ1hSTENRdm4rRzRYZ1VjbU1kOXZSaHJ1bCtqYnBFcWJlUE5vdTlsNnFmZktTVE5iZ0MvVTBPWVE9PRgAIAAoADCI6MintLGLAzjN1caAzjJAzdXGgM4yShxQVEFKNGsvQ1hEcG5BNFlxaGxmN1BvNWlvM1k9WiAiHv/3cVBWVmFMM3VyRTlncHNETzR1NHN5WE90S0tnPWU2WE0vEsMBCAISvgEKHFljU1RvbnZFU1B3cUNzNEwyY3JWaHY2OEw5OD0SZlo6QURxdEFaeHFxVE40ZHQ2dmxSUFVUWlpTYlFVUGRoUTlqSmQ3V0hkUFV6NVZsNVdxN3JwQWRQMUxPVmpock5aMEF6NTdYMUFxc0dCWmJOcWwrbmtFOGhidjB5RlJxNmFmdnc9PRgAIAAoADCs3IHs+KuNAzgAQABKHG9QVmtod0JSYlY2NUtDV1IyK0lPTkhXb091OD1aAGUAAAAAEuwBCA0S5wEKHDZWVE9xdTdHWkhPVTcxbDhoanRIbVFHSVF0UT0SZlo6QURxdEFaelJ5cFh3dlN6cG90MlpXemlyek9tdjlYakFyUnp4QVFhblF6NWxrNzhCb1NsQUQ4OG5NVWpnYXExY01VcXVWWUEzZkVVRUg2SHNXYi8rMW5IVGN5aFhBckF2eHc9PRgAIAAoADCI6MintLGLAzjN1caAzjJAzdXGgM4yShxEUXlvL3Y4dFk1TkV4WEpvSWU3M0RIWWVxRm89Wh8iHf9lOTltNUlUSGJxb1kxSC9RSGE0Y0Z2R2pwVGM9ZW2gn/US6wEIIxLmAQocc2N2QmtOSmZBY3p1UkFKdk5LMTEvWFlmdDJBPRJmWjpBRHF0QVp6UnlwWHd2U3pwb3QyWld6aXJ6T212UlQ1bVByVFdkWlBid1VHbnVsVEk2bi82dHhiVG9GK0F1RmlnZmF0SEZYMVlmaXJ3cHI4eUxWRVZKdEl0Zm9lcG5jTitHdz09GAAgACgAMJbwn8C1qI0DOKiUxc/tMkColMXP7TJKHEdldzFYTUprNTRmdUIzb2h3N2JiaHdyT3F2ST1aHiIcVlZ5SVZXWTl1LzVHMXJsb2ZnWFg0QmxhMDlVPWXnRD8eEu4BCCUS6QEKHFA2MkdoSEtFdTZkeE1jOEQ3VUp1K3V3SXlTUT0SZlo6QURxdEFaelJ5cFh3dlN6cG90MlpXemlyek9tdlZrS1hOd29KaUxzNjQ2cGdJaEt3QiszVGU5MElJcXBYRGtjT2twTG14U0lyNVNaQmQ5S1N3MDRwZGkvcjh0Ym9iVFIvdnc9PRgAIAIoAjCZ48q/k7eNAzi52PrA7zJAvNj6wO8yShx1aDc3Z1E5UDYwb2lkSjJySngwUVdJTnVxcWM9WiEiH///9WlQWXZXU0xQcFNWK29hTWJwRTJaV0JlRGpKcz1l2cw7pxLsAQgcEucBChxiUUdsUjFzR3NCT3Z6WjdGbmUvQ2VodDVrcE09EmZaOkFEcXRBWnpSeXBYd3ZTenBvdDJaV3ppcnpPbXZWN1NCWWtmL0lGWWtnNXVsbjcrQVFwMG52SGlMd3dnYmNLTDJwdnAwczBlQXR1dUpibnBRVG5mbTVObytsRmdqZ0EwTUlRPT0YACAAKAAw7570g4+KjQM4v8GlhtQyQL/BpYbUMkocUHhQUmpmcmxOQnNtQ0cydkUwcVY0aEFzQjk0PVofIh3UazhGTi9uRERiTXVONmk5RXlTUmVCUTZWcmVRPWUEotYHEu0BCBUS6AEKHFV0YnhYczZ1N3Z4dzBxRUliOEhkR0VrY0k5dz0SZlo6QURxdEFaelJ5cFh3dlN6cG90MlpXemlyek9tdmF3VG4rQkVwNGhtV0lPTld5R1hSSDRLMXNYTloyeWhkVFV1UTFhZk1ncW1QbFR1cnhCRnpEa3NOa0FZemNDTElsWTQ2MlE9PRgAIAAoADCY07Wq7+aMAzjvgtLC2DJA74LSwtgyShxqVW51cjBDSEp6Z1NKWG1Sc25ieUtnU2dYVzg9WiAiHv/+SXFzN3pEZ2ZaQlV6MFYzcVZtNmRHbG9XMnRzPWVSAPGyEuwBCCIS5wEKHEFoOHozMmVqT0RydThDRmUwK1JQOW5mY3pmZz0SZlo6QURxdEFaelJ5cFh3dlN6cG90MlpXemlyek9tdnYxcjNIZTFKZVBzM1VwbVVZenplS0tOMTJZR1FSL0RtV1BTb3lwc0twa0htZGlkYXVoSkM4VEI2U2IrR3pPY0lLNkRYMWc9PRgAIAAoADCW8J/AtaiNAziCyMbP7TJAgsjGz+0yShxyOStjdUtEeHF3SFM3OXdZeGZWUzVLS2RoZHc9Wh8iHepXUVB2UExWRTNyMXBwVzhqYklBQklacyszNHM9ZQAAAAASqwEIARKmAQoceXhKLzZmdmtlY3I3a3A1RVF6QjR0V0xwZGJFPRJOWjpBRHF0QVp5a3d0M3RrRXUxb0F1VG96NkFOMXE4MTVabjBJTlFiWDZ3NjhSV2dPN0R3UjROOFlWdHRoYjdweXJaMEJzcTFTVTVORERVGAAgACgAMKzcgez4q40DOABAAEocYVJDV0xnaEY5YjVJbnFLSUR2dUovanZRa0ZjPVoAZQAAAAAS7AEIGhLnAQocT29ialhCVHhQSUZNbVFlRm5NbW9PY0d6UHFnPRJmWjpBRHF0QVp6UnlwWHd2U3pwb3QyWld6aXJ6T212VkxUMjhqbGtiWVBtV0gwVkZBbkxQY3pYbEMzTFJ6Wi9oMGpjdXdlWW12dVdUbE1CbE1Fa2sxOFcwRDBSSkVuSG8vTUFSZz09GAAgACgAMOaq64CdzIsDOKHv97fRMkCh7/e30TJKHFpkK2ZEUkN2SXBrelBSL1Mwck1vZGFIOFBDOD1aHyIdqUVEZXlQWUhJQy8wQjlVZnR3eTBzTzZXbkRhcz1lAAAAABLrAQgbEuYBChxXN0p3V0lYazJmMUgxV1FOeDhSbWw3b2JNNEU9EmZaOkFEcXRBWnpSeXBYd3ZTenBvdDJaV3ppcnpPbXZvblA0Wm5GNGdvMGlDYldCeHVtYWdKcjBPQ0F1cm51ZXJXSVdwSVpRNWw5cVg0ZitxT2c0ZXNONGo4c2RRRVFpakNZN1VRPT0YACAAKAAwr6/+gZ3MiwM4rJGXldEyQKyRl5XRMkocSzF1VS8rc25heU9Sd0p0M0hqRkpzRjNXRlFVPVoeIhxTMVV3bTZGUDVEYjlWOTVxbTdkdmZ3NkduZHM9ZQSi1gcS7gEIGRLpAQocNk1oSW1SeXRqaXlleUt0L1FxZnlpS1hnc0lRPRJmWjpBRHF0QVp6UnlwWHd2U3pwb3QyWld6aXJ6T212a2xwVlpxWG1DZ0t1ZlFzYy9vTkdWd25zT1plOU1vZkVvbVdIWGlMOHlMdCtiL1FOZ25jMStDdktKek9vc1gzNkQvb2dMUT09GAAgACgAMNjT9oH0+owDOKTk8eXnMkCk5PHl5zJKHHdjOTNKZlVKeUxRTzVlTHkvTThHRDlhdStCaz1aISIf///qZ2t2QU9iZDR1d2t0RFlPdGQvWmM4b3plbytJPWV1dcRTEuwBCA4S5wEKHGRjSm5FN3NtanhQOGlKVm9UUjlSWWRjMEh0TT0SZlo6QURxdEFaelJ5cFh3dlN6cG90MlpXemlyek9tdi9VN1pTYXA4ZXNqWFY4NjdQNHJHVWtERDlNMmxIOVF1bXpTZFZmaGlSNmtOTHA5R3VZR0V5TFVmVDRiRlVKQjFpaURNYVE9PRgAIAAoADCI6MintLGLAzjN1caAzjJAzdXGgM4yShxiNDFvdjNsRDRJV3NjYU1iRERyMi9OUnBSN0E9Wh8iHf9yNThjaUdSTmQ2TXF0UDJUdE1DWjFGT3l3WVE9ZffPl4cS7QEIExLoAQocLzFZa2ZmczBEU1cyVzdaditHTmk1THpUWGJnPRJmWjpBRHF0QVp6UnlwWHd2U3pwb3QyWld6aXJ6T212cEIvN1VOZU9OQTZCbFpEY0pzQ1IwcktFYnVkcUMrdlpVeEJ0ZDZXM1NzZlpEOGpnVTB2bmxKR2J4a0R6aE13b2hKZW84UT09GAAgACgAMIjoyKe0sYsDOM3VxoDOMkDN1caAzjJKHHBNUXcvbzJkcjlqZEQzM1V4MTZZS2xOaEwzZz1aICIe//twYlFsR3RxOFAvakRDUm5laTlUVDRZdnZqNnc9ZbI1J3MS7gEIFxLpAQocdXJvWjlvOHlTOW91QmtVSThDNG9JMCttaGNZPRJmWjpBRHF0QVp6UnlwWHd2U3pwb3QyWld6aXJ6T212S0RCVEN0WU9LYXg1dDRrNU5sUzhrRUxmZFoxY0VKeEQ5Y1owVzN3TmVDSDl0d014ZTU3bUUrNDc4TEZuUXk1bFV3QWxOUT09GAAgACgAMOqisdH22IwDOKezkrnjMkCns5K54zJKHG1UZFNWZ3J0ZmphTDlpbUwrUzdHcTkvM1FiYz1aISIf//+oSGw2RFM0N3V1ZXIzTGRuNWMzZng5OFFZN0tBPWWb76tFEu0BCBYS6AEKHGNaSFlzaVlWYzkvWVlkS1dpN0FOU0xCWE1nQT0SZlo6QURxdEFaelJ5cFh3dlN6cG90MlpXemlyek9tdmtvZFlIRWIyTE5hd3hDd2FJV3FsZjllN3VBT3ZoaTlId0ovMEdtUnk1alRndEo5RFdhQ0J3SHV4L1RQaTNGeFhoK1B0RHc9PRgAIAAoADD7uaK++5iMAzjRppuh2zJA0aabodsyShw1OUhhMUtNSTBoL0R1bkFLdGloazlpbnQyaVk9WiAiHv//UXBoT3Q3ZTVmY0M2ZldpejlmVWN3VlJCRDRrPWUAAAAAEu0BCA8S6AEKHFlXTWdLRjYvMm9WbjdUUlRVVG1FT0JXWjVVOD0SZlo6QURxdEFaelJ5cFh3dlN6cG90MlpXemlyek9tdjZaRG9FSGhIWG9tTFlhcjBlQm5SYUM3REptMDV0bkNiWkxRY0tBWUxIWjhsT1FnenBFTnFJd1VkZlg4SVd3Uk5SUjNiU3c9PRgAIAAoADCI6MintLGLAzjN1caAzjJAzdXGgM4yShwxaXZOR21TSDRxNktLY3hhKzFGaWdWeXprY0E9WiAiHv+5Ukk0YlFyeHlCVEhLUVNDak82UTJwVWJUZWRRPWVbk0+dEu0BCBES6AEKHHd6V0VSL3FDNE45UldxYldMcEhWNXBSQ1NlTT0SZlo6QURxdEFaelJ5cFh3dlN6cG90MlpXemlyek9tdlVqSkV3VEFLM3JXS01MRWVHK2ZsKytQZFRCYVoyN280SG5vSHVSQ2FDT0w2Q1VvSlJQTEdYWXZGKzN3OVFwUld5VVk3RHc9PRgAIAAoADCI6MintLGLAzjN1caAzjJAzdXGgM4yShw0NU5yYll4RzUza2oxb1VlWU4wYWdBOHk5cGM9WiAiHv/uTHVkZW5yYmU3dmdDR2p0MTBJNU01ZGRtRzdnPWVqCqVlEuwBCCAS5wEKHDIwMnMvTWYzbmZlRUJza0VPY2o4UkpoTEU1cz0SZlo6QURxdEFaelJ5cFh3dlN6cG90MlpXemlyek9tdm1SeVNOQ0RaTVYzV2tUdGp3WVJSRnhtdVNpWHlhZld5c3ZjaitESWhNamRIUi8xZmRJTXI0V3NSeEtsUm1kaTZBUVVNbVE9PRgAIAAoADDv25HHip2NAzih++mV7DJAofvplewyShxOZHVhV3c1T1R6THRoVW5KUEM2NFpVQkx2YmM9Wh8iHf0zUHFyY3hXckswYk9neVpMa1NJZCtKVUZCa3c9ZUQI/X0S7AEIChLnAQoceEk0WjNwTWdZa1A5bHh1UE84U2RCTFdGQnkwPRJmWjpBRHF0QVp6UnlwWHd2U3pwb3QyWld6aXJ6T212ZVlObGZLVWJXVUU0K2I4RStmRUVWYnJwc2dtVnJweTZlcjgrNDdaLzdkT0F6eWRNZ29CQndzNlk0NGp5OFIvTU8vYVd2QT09GAAgACgAMIjoyKe0sYsDOM3VxoDOMkDN1caAzjJKHEt2ODJDVUVVYXZkdVZ1dXd4U21UbEFqbXJ0OD1aHyId+mUyZElWRmZ4VzdMUDM3eEIveWZiUUJnL2VwMD1lf7ciZRLsAQgIEucBChwycTQ5N1h2ekY3Z0V2SHNLd0hsNjRDV2tJWVU9EmZaOkFEcXRBWnpSeXBYd3ZTenBvdDJaV3ppcnpPbXZQZzljTm1SbXYrWXZjbEpjYnBhdmVBeHRsWE1tOHBCNTRWQ3hYU1YrRlE4VE02NVBEQUNnMVFxcmxKbGlDVCt0TVVnaVp3PT0YACAAKAAwiOjIp7SxiwM4zdXGgM4yQM3VxoDOMkocRXpTNGd4TGN5Vyt0bkJISyt0UXB2bjRGN2I4PVofIh3pd1B2QmFzdXd6dWtkdE1pMTNBb2IvdkdXTXZNPWVRpCm3EuwBCAYS5wEKHFBXMHdJaFRjT25HcHhGdXRYWDlkQXgrNTJDMD0SZlo6QURxdEFaelJ5cFh3dlN6cG90MlpXemlyek9tdjh0ZTM4UzVCR28wSDkwcWg1aytDaGQ0RHJRMVNwRC9lT01YZEZ0UkFsNFR6MFJjdWcrbUZudEc3Ym1scXNlbm9XRUxDdnc9PRgAIAAoADDLj73IyuuMAzjN1caAzjJAzdXGgM4yShxLRkZSL1FXUDU5T3haakc1VkgzeHFWLzFzU0U9Wh8iHadINndLcmtTRjZpR0wzM3RweWhBZ1RhbmE3K2s9ZVGkKbcS7AEIIRLnAQocaE5OcWVjSWcwTTVoczdKZjFtZmtpZDA0Q1RVPRJmWjpBRHF0QVp6UnlwWHd2U3pwb3QyWld6aXJ6T212OE02ZlJwU2w4TStZamlpUnl1SVRzWU1mZkx2MXBPMnZsUjdIbGFmS3dvSUdrbzJERzFLeHgvV0NNV2syOGU5c3VJWEs1QT09GAAgACgAMPyGoduKnY0DOIrr7JXsMkCK6+yV7DJKHEFhekt5eHRWemNnQm9CNjIzYjNSU0JNZnNyYz1aHyId/lgzTGRYRzVleWNqS3IrS2JKMmF3L0NCSUFpQT1lrJTdshLsAQgdEucBChw3R2JKWVNvY1BSUGlWYTJiSDZHck52eUsvK2M9EmZaOkFEcXRBWnpSeXBYd3ZTenBvdDJaV3ppcnpPbXYwZ0lrN241YnBRUU1BeTRqcW5vbyt2S2t3cHAvZ3hjOXQ4TFh4Rm9PS0s5bnM0WVJJeGt2UHdrYmtYb3p6TnY1eXhoMW53PT0YACAAKAAw2sT3pJrpiwM4uuDcktUyQLrg3JLVMkocNXFRRWRQakQzcW1Ja2dBTWc4OVBHRVN6V0JRPVofIh3qbjArZVhFTzE0RW9zVVRSWUFtRnZ3ek9EVTk0PWXXpK0EEuwBCAsS5wEKHHdMblFzYVFuMlNIeGlqbmNEb3hEQ21KV3JEdz0SZlo6QURxdEFaelJ5cFh3dlN6cG90MlpXemlyek9tdldFdDMyd3h2enlhZmlaUUZMcmJ0K2k0OGxabVVqY3ZmWE1MZHVKUE5mVTVpQURVeWN0WHZlck9ic3V5THZ5dU9lMVlyT0E9PRgAIAAoADCI6MintLGLAzjN1caAzjJAzdXGgM4yShxHcmFCeUV1MWhOM2E4VHU5MC8yRmQ1L2llSXc9Wh8iHf1vTE41UG1hZWdhUlE0Sjh1Qy9pT1JZNmRFZnc9ZWmIwbgS7AEIBxLnAQocMmJYSVVQcnNpLzlNMlllUlk4NGsrL0tZMnhnPRJmWjpBRHF0QVp6UnlwWHd2U3pwb3QyWld6aXJ6T212RkpVcnFaT3JzZWx5YlhkWXNUREc4TmxkdkM2KzNlZVFqZlhCYTZMcnp4dWJ6M1BvUFF3TUZCZWtEZlBxYkdqY0NHOFB6QT09GAAgASgBMLWlufyUto0DOM3VxoDOMkCS2uGw7zJKHHJCMGk1UnR0RktWNGF1Qy9qWVdnU28wYUU5Yz1aHyId02k1ajhBQzl2dGFRWFc4dVRRcXN2SlVUbXZrRT1lyPM/uxLuAQgYEukBChx2c2Y2TjlyY1IxZ0dxWS93MU9odWxiUnEwNEk9EmZaOkFEcXRBWnpSeXBYd3ZTenBvdDJaV3ppcnpPbXY2L2hsc0xpTkZVQlRkTDJxcEJxRlM1QlVpcW52YkhUOWw4U3NJbDNhK1l1TFpvWWRxZHFQbVJuR0RvbVRQVVJLeEpLV3pnPT0YACAAKAAwyuiJ/fP6jAM4g6Hx5ecyQIOh8eXnMkocYWZKKzdiQ1BZSXdnVDFOL0phYnJiMjdzclFjPVohIh///9R3VHlEemZQc3hwQzFtM3ZKV3ZIdFFRY3ZDc2M9ZQAAAAAS7AEIDBLnAQocV2w3WjJDSnN6bTc0OUdZU0pMSjQwb2gwSVlRPRJmWjpBRHF0QVp6UnlwWHd2U3pwb3QyWld6aXJ6T212UlhRSzlyRjd4cVhOT2lVZWhVZW81OEtyMEdLV2txeVFha0k2dDZIZzJtWEdzdGdkclV2aXB3OTM4UjJLSEl0dllLVTlndz09GAAgACgAMIjoyKe0sYsDOM3VxoDOMkDN1caAzjJKHGtralBPYUJ3ZXpZdjVrWURyM05kOWIxOVduOD1aHyId/mlRaDM5TTV0aGx4WE1MTk5YaHpMYzJtUGZ3az1laYjBuBLtAQgQEugBChxzMzNyY0pzc3E4UTN2VHBpcitwYmZ2VjRjd2s9EmZaOkFEcXRBWnpSeXBYd3ZTenBvdDJaV3ppcnpPbXZadWV4bjk3RThraUdId29zNzcwNjBVeU8rOTlmaGdvYkU5MmM4Rlk2Q0xPUzN4bWp2NGlhcnNuZ251Wk1XVFBEQmp2NmF3PT0YACAAKAAwiOjIp7SxiwM4zdXGgM4yQM3VxoDOMkocQW56WE5INC9nYyt5RWRXT240anpJdnUxUFhjPVogIh7/3Ep4WmlrQ3oxRjFNOVE1VXNob3BQK09hVXJIcz1lFmYeRhLrAQgFEuYBChwrMjIvR21PcXpPazh5YUFWdUJBQkhLZVZ1Y289EmZaOkFEcXRBWnpSeXBYd3ZTenBvdDJaV3ppcnpPbXY5SWVuVDN0Y2dtY1JyVTFUaExkTitDZjE2c2JOQzd6WUVsWDhxUGhsaHRqaVZVVWNHME41TmFyMkM0d3VyMFVUQ3cxeXRRPT0YACAAKAAwiOjIp7SxiwM4zdXGgM4yQM3VxoDOMkocTzNQSnFwZkx3K0Rvam9XK0hWOTUvRUg4cHRjPVoeIhxOTThRaWpzNklEVG9hdDBTM2FSUFRDYSs4R009ZQAAAAAwATgA",
+   "version": 1
+}

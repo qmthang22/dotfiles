@@ -1,0 +1,7 @@
+2025/05/23-20:49:18.106 4f0 Reusing MANIFEST /home/obito/.config/google-chrome/Default/WebStorage/18/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2025/05/23-20:49:18.106 4f0 Recovering log #3
+2025/05/23-20:49:18.108 4f0 Reusing old log /home/obito/.config/google-chrome/Default/WebStorage/18/IndexedDB/indexeddb.leveldb/000003.log 
+2025/05/23-20:49:23.834 4f0 Level-0 table #5: started
+2025/05/23-20:49:23.836 4f0 Level-0 table #5: 113497 bytes OK
+2025/05/23-20:49:23.838 4f0 Delete type=0 #3
+2025/05/23-20:49:23.838 4f0 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

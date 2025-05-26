@@ -1,0 +1,24 @@
+2025/05/25-21:59:27.093 4 Reusing MANIFEST /home/obito/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2025/05/25-21:59:27.098 4 Recovering log #552
+2025/05/25-21:59:27.102 4 Reusing old log /home/obito/.config/google-chrome/Default/Local Storage/leveldb/000552.log 
+2025/05/25-22:00:27.124 4 Level-0 table #556: started
+2025/05/25-22:00:27.127 4 Level-0 table #556: 19608 bytes OK
+2025/05/25-22:00:27.129 4 Delete type=0 #552
+2025/05/25-22:43:55.478 5 Level-0 table #558: started
+2025/05/25-22:43:55.484 5 Level-0 table #558: 15039 bytes OK
+2025/05/25-22:43:55.488 5 Delete type=0 #555
+2025/05/25-22:43:55.488 5 Compacting 4@0 + 1@1 files
+2025/05/25-22:43:55.514 5 Generated table #559@0: 10813 keys, 1909962 bytes
+2025/05/25-22:43:55.514 5 Compacted 4@0 + 1@1 files => 1909962 bytes
+2025/05/25-22:43:55.515 5 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/25-22:43:55.516 5 Delete type=2 #551
+2025/05/25-22:43:55.516 5 Delete type=2 #556
+2025/05/25-22:43:55.516 5 Delete type=2 #553
+2025/05/25-22:43:55.516 5 Delete type=2 #549
+2025/05/25-22:43:55.516 5 Delete type=2 #558
+2025/05/25-23:24:24.710 5 Level-0 table #561: started
+2025/05/25-23:24:24.716 5 Level-0 table #561: 21809 bytes OK
+2025/05/25-23:24:24.718 5 Delete type=0 #557
+2025/05/25-23:31:26.145 5 Level-0 table #563: started
+2025/05/25-23:31:26.174 5 Level-0 table #563: 18785 bytes OK
+2025/05/25-23:31:26.177 5 Delete type=0 #560

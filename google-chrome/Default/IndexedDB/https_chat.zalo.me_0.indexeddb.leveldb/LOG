@@ -1,0 +1,14 @@
+2025/05/25-13:41:31.880 42a Reusing MANIFEST /home/obito/.config/google-chrome/Default/IndexedDB/https_chat.zalo.me_0.indexeddb.leveldb/MANIFEST-000001
+2025/05/25-13:41:31.880 42a Recovering log #33
+2025/05/25-13:41:31.901 42a Reusing old log /home/obito/.config/google-chrome/Default/IndexedDB/https_chat.zalo.me_0.indexeddb.leveldb/000033.log 
+2025/05/25-13:41:31.901 42a Delete type=2 #31
+2025/05/25-13:41:31.901 42a Delete type=2 #30
+2025/05/25-13:41:31.901 42a Delete type=2 #34
+2025/05/25-13:41:32.277 42c Level-0 table #39: started
+2025/05/25-13:41:32.291 42c Level-0 table #39: 1671786 bytes OK
+2025/05/25-13:41:32.293 42c Delete type=0 #33
+2025/05/25-13:41:32.332 42c Compacting 1@1 + 2@2 files
+2025/05/25-13:41:32.359 42c Generated table #40@1: 19411 keys, 2155911 bytes
+2025/05/25-13:41:32.373 42c Generated table #41@1: 26047 keys, 1338163 bytes
+2025/05/25-13:41:32.373 42c Compacted 1@1 + 2@2 files => 3494074 bytes
+2025/05/25-13:41:32.375 42c compacted to: files[ 0 0 2 0 0 0 0 ]

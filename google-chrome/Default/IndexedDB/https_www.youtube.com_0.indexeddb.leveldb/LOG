@@ -1,0 +1,12 @@
+2025/05/26-09:45:19.177 41e Reusing MANIFEST /home/obito/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/05/26-09:45:19.177 41e Recovering log #54
+2025/05/26-09:45:19.183 41e Reusing old log /home/obito/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000054.log 
+2025/05/26-09:56:25.069 41e Level-0 table #59: started
+2025/05/26-09:56:25.081 41e Level-0 table #59: 1648391 bytes OK
+2025/05/26-09:56:25.085 41e Delete type=0 #54
+2025/05/26-10:13:33.523 41f Compacting 1@1 + 1@2 files
+2025/05/26-10:13:33.531 41f Generated table #60@1: 316 keys, 75402 bytes
+2025/05/26-10:13:33.531 41f Compacted 1@1 + 1@2 files => 75402 bytes
+2025/05/26-10:13:33.533 41f compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/05/26-10:13:33.533 41f Delete type=2 #56
+2025/05/26-10:13:33.534 41f Delete type=2 #59

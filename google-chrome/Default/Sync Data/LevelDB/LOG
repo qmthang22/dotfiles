@@ -1,0 +1,15 @@
+2025/05/26-09:45:14.969 41e Reusing MANIFEST /home/obito/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
+2025/05/26-09:45:14.999 41e Recovering log #163
+2025/05/26-09:45:15.006 41e Reusing old log /home/obito/.config/google-chrome/Default/Sync Data/LevelDB/000163.log 
+2025/05/26-09:56:19.563 42f Level-0 table #167: started
+2025/05/26-09:56:19.566 42f Level-0 table #167: 92745 bytes OK
+2025/05/26-09:56:19.568 42f Delete type=0 #163
+2025/05/26-09:56:19.569 42f Compacting 4@0 + 1@1 files
+2025/05/26-09:56:19.572 42f Generated table #168@0: 171 keys, 19764 bytes
+2025/05/26-09:56:19.572 42f Compacted 4@0 + 1@1 files => 19764 bytes
+2025/05/26-09:56:19.574 42f compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/26-09:56:19.574 42f Delete type=2 #159
+2025/05/26-09:56:19.574 42f Delete type=2 #157
+2025/05/26-09:56:19.574 42f Delete type=2 #167
+2025/05/26-09:56:19.574 42f Delete type=2 #164
+2025/05/26-09:56:19.574 42f Delete type=2 #161

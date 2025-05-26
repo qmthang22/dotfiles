@@ -1,0 +1,1 @@
+"use strict";(()=>{var s=JSON.parse;JSON.parse=function(e,...t){try{let r=s.bind(JSON)(e,...t);if(typeof r=="object"&&r!==null){let n=new CustomEvent("sider-onParseJSON",{detail:{data:r}});window.dispatchEvent(n)}return r}catch(r){throw r}};})();

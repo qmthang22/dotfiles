@@ -1,0 +1,6 @@
+2025/05/24-21:40:27.299 139f Creating DB /home/obito/.config/google-chrome/Default/WebStorage/54/IndexedDB/indexeddb.leveldb since it was missing.
+2025/05/24-21:40:27.303 139f Reusing MANIFEST /home/obito/.config/google-chrome/Default/WebStorage/54/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2025/05/24-21:40:32.297 139d Level-0 table #5: started
+2025/05/24-21:40:32.303 139d Level-0 table #5: 15461 bytes OK
+2025/05/24-21:40:32.307 139d Delete type=0 #3
+2025/05/24-21:40:32.307 139d Manual compaction at level-0 from (begin) .. (end); will stop at (end)

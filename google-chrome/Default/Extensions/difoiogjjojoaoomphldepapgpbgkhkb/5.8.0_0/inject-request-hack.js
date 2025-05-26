@@ -1,0 +1,1 @@
+"use strict";(()=>{var o=window.XMLHttpRequest,e=class extends o{constructor(...t){super(...t)}open(t,n,...s){let r=new CustomEvent("sider-onGetRequest",{detail:{url:n.toString()}});window.dispatchEvent(r),super.open(t,n,...s)}};window.XMLHttpRequest=e;})();

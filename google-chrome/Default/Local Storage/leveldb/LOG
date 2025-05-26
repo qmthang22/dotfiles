@@ -1,0 +1,39 @@
+2025/05/26-09:45:14.987 4 Reusing MANIFEST /home/obito/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2025/05/26-09:45:14.996 4 Recovering log #562
+2025/05/26-09:45:14.999 4 Reusing old log /home/obito/.config/google-chrome/Default/Local Storage/leveldb/000562.log 
+2025/05/26-09:46:41.683 5 Level-0 table #566: started
+2025/05/26-09:46:41.688 5 Level-0 table #566: 15875 bytes OK
+2025/05/26-09:46:41.690 5 Delete type=0 #562
+2025/05/26-09:47:22.001 5 Level-0 table #568: started
+2025/05/26-09:47:22.005 5 Level-0 table #568: 17907 bytes OK
+2025/05/26-09:47:22.008 5 Delete type=0 #565
+2025/05/26-09:47:22.008 5 Compacting 4@0 + 1@1 files
+2025/05/26-09:47:22.045 5 Generated table #569@0: 10875 keys, 1916474 bytes
+2025/05/26-09:47:22.045 5 Compacted 4@0 + 1@1 files => 1916474 bytes
+2025/05/26-09:47:22.049 5 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/26-09:47:22.050 5 Delete type=2 #563
+2025/05/26-09:47:22.050 5 Delete type=2 #559
+2025/05/26-09:47:22.050 5 Delete type=2 #566
+2025/05/26-09:47:22.050 5 Delete type=2 #561
+2025/05/26-09:47:22.050 5 Delete type=2 #568
+2025/05/26-09:48:16.391 4 Level-0 table #571: started
+2025/05/26-09:48:16.396 4 Level-0 table #571: 19463 bytes OK
+2025/05/26-09:48:16.399 4 Delete type=0 #567
+2025/05/26-09:56:25.714 5 Level-0 table #573: started
+2025/05/26-09:56:25.719 5 Level-0 table #573: 20750 bytes OK
+2025/05/26-09:56:25.722 5 Delete type=0 #570
+2025/05/26-10:03:17.707 5 Level-0 table #575: started
+2025/05/26-10:03:17.713 5 Level-0 table #575: 14108 bytes OK
+2025/05/26-10:03:17.716 5 Delete type=0 #572
+2025/05/26-10:27:17.708 5 Level-0 table #577: started
+2025/05/26-10:27:17.714 5 Level-0 table #577: 13502 bytes OK
+2025/05/26-10:27:17.717 5 Delete type=0 #574
+2025/05/26-10:27:17.718 5 Compacting 4@0 + 1@1 files
+2025/05/26-10:27:17.743 5 Generated table #578@0: 10895 keys, 1913461 bytes
+2025/05/26-10:27:17.743 5 Compacted 4@0 + 1@1 files => 1913461 bytes
+2025/05/26-10:27:17.744 5 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/26-10:27:17.745 5 Delete type=2 #577
+2025/05/26-10:27:17.745 5 Delete type=2 #571
+2025/05/26-10:27:17.745 5 Delete type=2 #575
+2025/05/26-10:27:17.745 5 Delete type=2 #569
+2025/05/26-10:27:17.745 5 Delete type=2 #573

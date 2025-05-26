@@ -1,0 +1,47 @@
+2025/05/22-07:48:16.352 5ef Reusing MANIFEST /home/obito/.config/google-chrome/Default/IndexedDB/https_www.coursera.org_0.indexeddb.leveldb/MANIFEST-000001
+2025/05/22-07:48:16.353 5ef Recovering log #12
+2025/05/22-07:48:16.353 5ef Reusing old log /home/obito/.config/google-chrome/Default/IndexedDB/https_www.coursera.org_0.indexeddb.leveldb/000012.log 
+2025/05/22-07:48:16.353 5ef Delete type=2 #11
+2025/05/22-07:48:16.360 5f1 Level-0 table #17: started
+2025/05/22-07:48:16.362 5f1 Level-0 table #17: 510 bytes OK
+2025/05/22-07:48:16.372 5f1 Delete type=0 #12
+2025/05/22-07:48:16.373 5ef Manual compaction at level-0 from '\x00\x07\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x08\x00\x00\x00' @ 0 : 0; will stop at '\x00\x07\x00\x00\x05' @ 249 : 1
+2025/05/22-07:48:16.373 5ef Compacting 1@0 + 1@1 files
+2025/05/22-07:48:16.375 5ef Generated table #18@0: 68 keys, 1092 bytes
+2025/05/22-07:48:16.375 5ef Compacted 1@0 + 1@1 files => 1092 bytes
+2025/05/22-07:48:16.377 5ef compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/22-07:48:16.377 5ef Delete type=2 #17
+2025/05/22-07:48:16.377 5ef Manual compaction at level-0 from '\x00\x07\x00\x00\x05' @ 249 : 1 .. '\x00\x08\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/05/22-07:48:16.377 5ef Level-0 table #20: started
+2025/05/22-07:48:16.379 5ef Level-0 table #20: 510 bytes OK
+2025/05/22-07:48:16.381 5ef Delete type=2 #14
+2025/05/22-07:48:16.381 5ef Delete type=0 #16
+2025/05/22-07:48:16.381 5ef Manual compaction at level-0 from '\x00\x08\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x09\x00\x00\x00' @ 0 : 0; will stop at '\x00\x08\x00\x00\x05' @ 265 : 1
+2025/05/22-07:48:16.381 5ef Compacting 1@0 + 1@1 files
+2025/05/22-07:48:16.383 5ef Generated table #21@0: 68 keys, 1096 bytes
+2025/05/22-07:48:16.383 5ef Compacted 1@0 + 1@1 files => 1096 bytes
+2025/05/22-07:48:16.385 5ef compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/22-07:48:16.385 5ef Delete type=2 #20
+2025/05/22-07:48:16.385 5ef Manual compaction at level-0 from '\x00\x08\x00\x00\x05' @ 265 : 1 .. '\x00\x09\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/05/22-07:48:46.559 5f1 Level-0 table #23: started
+2025/05/22-07:48:46.562 5f1 Level-0 table #23: 4947 bytes OK
+2025/05/22-07:48:46.565 5f1 Delete type=0 #19
+2025/05/22-07:48:46.565 5f1 Delete type=2 #18
+2025/05/22-07:48:46.565 5ef Manual compaction at level-0 from '\x00\x0b\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0c\x00\x00\x00' @ 0 : 0; will stop at '\x00\x0b\x00\x00\x05' @ 576 : 1
+2025/05/22-07:48:46.566 5ef Compacting 1@0 + 1@1 files
+2025/05/22-07:48:46.567 5ef Generated table #24@0: 249 keys, 3793 bytes
+2025/05/22-07:48:46.567 5ef Compacted 1@0 + 1@1 files => 3793 bytes
+2025/05/22-07:48:46.569 5ef compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/22-07:48:46.569 5ef Delete type=2 #23
+2025/05/22-07:48:46.570 5ef Manual compaction at level-0 from '\x00\x0b\x00\x00\x05' @ 576 : 1 .. '\x00\x0c\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/05/22-07:48:46.570 5ef Level-0 table #26: started
+2025/05/22-07:48:46.571 5ef Level-0 table #26: 510 bytes OK
+2025/05/22-07:48:46.573 5ef Delete type=0 #22
+2025/05/22-07:48:46.573 5ef Delete type=2 #21
+2025/05/22-07:48:46.574 5ef Manual compaction at level-0 from '\x00\x0c\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0d\x00\x00\x00' @ 0 : 0; will stop at '\x00\x0c\x00\x00\x05' @ 592 : 1
+2025/05/22-07:48:46.574 5ef Compacting 1@0 + 1@1 files
+2025/05/22-07:48:46.575 5ef Generated table #27@0: 253 keys, 3862 bytes
+2025/05/22-07:48:46.575 5ef Compacted 1@0 + 1@1 files => 3862 bytes
+2025/05/22-07:48:46.577 5ef compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/22-07:48:46.577 5ef Delete type=2 #26
+2025/05/22-07:48:46.577 5ef Manual compaction at level-0 from '\x00\x0c\x00\x00\x05' @ 592 : 1 .. '\x00\x0d\x00\x00\x00' @ 0 : 0; will stop at (end)

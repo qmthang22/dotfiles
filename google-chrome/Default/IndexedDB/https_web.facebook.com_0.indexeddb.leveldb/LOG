@@ -1,0 +1,6 @@
+2025/05/23-12:46:24.493 408 Creating DB /home/obito/.config/google-chrome/Default/IndexedDB/https_web.facebook.com_0.indexeddb.leveldb since it was missing.
+2025/05/23-12:46:24.498 408 Reusing MANIFEST /home/obito/.config/google-chrome/Default/IndexedDB/https_web.facebook.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/05/23-12:46:36.641 407 Level-0 table #5: started
+2025/05/23-12:46:36.643 407 Level-0 table #5: 12283 bytes OK
+2025/05/23-12:46:36.645 407 Delete type=0 #3
+2025/05/23-12:46:36.645 407 Manual compaction at level-0 from '\x00\x07\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x08\x00\x00\x00' @ 0 : 0; will stop at (end)
